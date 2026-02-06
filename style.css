@@ -1,0 +1,28 @@
+body
+{
+    background-color:#ACCBA2;
+}
+#ab1{
+    width: 100%;
+    height: 80px;
+    border: 2px solid ;
+    border-color:#1A2517 ;
+    border-radius: 20px;
+    background-color:#ACCBA2 ;
+}
+#abc1{
+    font-size: 100;
+    font-weight: bolder;
+    color: #1A2517 ;
+    text-align: center;
+}
+#ab2{
+    width:100%;
+    height:200px;
+    border: 2PX solid;
+    border-color: #1A2517 ;
+    border-radius: 5PX ;
+    position: relative;
+    top: 120PX;
+    
+}
